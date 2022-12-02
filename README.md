@@ -2,8 +2,8 @@
 
 There are two ways to run the application:
 
-1. With run from Visual Studio<br>
-	1.1. To run the Web application
+1. With run from Visual Studio
+	1.1. To run the Web application<br>
 	   - Open Visual studio
 	   - Open the solution with visual studio
 	   - Set TextCalculator project as startup project
