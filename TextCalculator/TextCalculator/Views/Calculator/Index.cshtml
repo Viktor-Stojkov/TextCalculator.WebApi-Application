@@ -1,0 +1,17 @@
+﻿@model CalculatorViewModel;
+
+<form method="post">
+    <h1>Text calculator for sum</h1>
+    <input type="text" asp-for="@Model.Number"/>
+    <button type="submit">Calculate</button>
+    </br>
+    @if (!String.IsNullOrEmpty(Model.ErrorMessage))
+    {
+        <text>@Model.ErrorMessage</text>
+    }
+
+    @if(!String.IsNullOrEmpty(Model.Result))
+    {
+        <text>The result is: @Model.Result</text>
+    }
+</form>

@@ -1,0 +1,13 @@
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\TextCalculator.WebApi.exe
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\TextCalculator.WebApi.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\TextCalculator.WebApi.deps.json
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\TextCalculator.WebApi.runtimeconfig.json
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\TextCalculator.WebApi.pdb
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\TextCalculator.BusinessLayer.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.WebApi\obj\Release\net6.0\PubTmp\Out\TextCalculator.BusinessLayer.pdb

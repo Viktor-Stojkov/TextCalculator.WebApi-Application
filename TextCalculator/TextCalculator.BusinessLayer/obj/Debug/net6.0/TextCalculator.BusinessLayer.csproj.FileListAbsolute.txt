@@ -1,0 +1,12 @@
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\bin\Debug\net6.0\TextCalculator.BusinessLayer.deps.json
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\bin\Debug\net6.0\TextCalculator.BusinessLayer.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\bin\Debug\net6.0\TextCalculator.BusinessLayer.pdb
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\TextCalculator.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\TextCalculator.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\TextCalculator.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\TextCalculator.BusinessLayer.AssemblyInfo.cs
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\TextCalculator.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\TextCalculator.BusinessLayer.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\refint\TextCalculator.BusinessLayer.dll
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\TextCalculator.BusinessLayer.pdb
+C:\Users\vices\Desktop\It - Tasks\HASELT - Task\TextCalculator\TextCalculator.BusinessLayer\obj\Debug\net6.0\ref\TextCalculator.BusinessLayer.dll

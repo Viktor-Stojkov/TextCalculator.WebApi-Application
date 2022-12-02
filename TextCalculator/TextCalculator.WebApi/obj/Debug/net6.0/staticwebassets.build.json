@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hiOmeNW9lcWDvqd/ShoaEAJdR5cE8Cm+AiWFPAw1Gvk=",
+  "Source": "TextCalculator.WebApi",
+  "BasePath": "_content/TextCalculator.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
