@@ -2,7 +2,7 @@
 
 There are two ways to run the application:
 
-1. With run from Visual Studio
+1. With run from Visual Studio<br>
 	1.1. To run the Web application
 	   - Open Visual studio
 	   - Open the solution with visual studio
