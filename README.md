@@ -2,13 +2,13 @@
 
 There are two ways to run the application:
 
-1. With run from Visual Studio
+1. With run from Visual Studio<br><br>
 	1.1. To run the Web application<br>
-	   - Open Visual studio
-	   - Open the solution with visual studio
-	   - Set TextCalculator project as startup project
-           - Run the project
- 	   This will open instance of chrome with the view for entering the number
+	   - Open Visual studio<br>
+	   - Open the solution with visual studio<br>
+	   - Set TextCalculator project as startup project<br>
+           - Run the project<br>
+ 	   This will open instance of chrome with the view for entering the number<br><br>
 
 	1.2. To run the Web Api
 	   - Open new instance of Visual Studio
