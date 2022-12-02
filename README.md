@@ -10,7 +10,7 @@ There are two ways to run the application:
            - Run the project<br>
  	   This will open instance of chrome with the view for entering the number<br>
 
-	1.2. To run the Web Api<br><br>
+	1.2. To run the Web Api<br>
 	   - Open new instance of Visual Studio<br>
            - Open the solution in the new instance of Visual Studio<br>
 	   - Set the TextController.WebApi project as startup project<br>
