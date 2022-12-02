@@ -8,13 +8,13 @@ There are two ways to run the application:
 	   - Open the solution with visual studio<br>
 	   - Set TextCalculator project as startup project<br>
            - Run the project<br>
- 	   This will open instance of chrome with the view for entering the number<br><br>
+ 	   This will open instance of chrome with the view for entering the number<br>
 
-	1.2. To run the Web Api
-	   - Open new instance of Visual Studio
-           - Open the solution in the new instance of Visual Studio
-	   - Set the TextController.WebApi project as startup project
-	   - Run the project 
+	1.2. To run the Web Api<br><br>
+	   - Open new instance of Visual Studio<br>
+           - Open the solution in the new instance of Visual Studio<br>
+	   - Set the TextController.WebApi project as startup project<br>
+	   - Run the project<br> 
 	   This will open new instance of chrome and display the api/swagger.
  
 	NOTE: Without the Api running, you won't be able to test the application
